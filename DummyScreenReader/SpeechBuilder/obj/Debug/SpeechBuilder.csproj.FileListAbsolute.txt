@@ -1,0 +1,57 @@
+C:\Users\adit\Desktop\ReveScreenReader\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adit\Desktop\ReveScreenReader\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\adit\Desktop\ReveScreenReader\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\adit\Desktop\ReveScreenReader\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\adit\Desktop\ReveScreenReader\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\adit\Desktop\ReveScreenReader\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\adit\Desktop\ReveScreenReader\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 5.30 Product\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\adit\Desktop\ReveScreenReader 9.42 Product 2008\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 10.22pm Product v2 2008\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 10.22pm Product v2 2008\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 10.22pm Product v2 2008\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 10.22pm Product v2 2008\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 10.22pm Product v2 2008\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 10.22pm Product v2 2008\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\adit\Desktop\17.3.2018\ReveScreenReader 10.22pm Product v2 2008\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\adit\Desktop\18.3.2018\Reve System Limited Screen Reader\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\adit\Desktop\18.3.2018\Reve System Limited Screen Reader\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\adit\Desktop\18.3.2018\Reve System Limited Screen Reader\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adit\Desktop\18.3.2018\Reve System Limited Screen Reader\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\adit\Desktop\18.3.2018\Reve System Limited Screen Reader\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\adit\Desktop\18.3.2018\Reve System Limited Screen Reader\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\adit\Desktop\18.3.2018\Reve System Limited Screen Reader\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\adit\Desktop\18.3.2018 exe\ReveScreenReader\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\adit\Desktop\18.3.2018 exe\ReveScreenReader\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\adit\Desktop\18.3.2018 exe\ReveScreenReader\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\adit\Desktop\18.3.2018 exe\ReveScreenReader\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\adit\Desktop\18.3.2018 exe\ReveScreenReader\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+C:\Users\adit\Desktop\18.3.2018 exe\ReveScreenReader\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\adit\Desktop\18.3.2018 exe\ReveScreenReader\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+G:\18.3.2018 exe\ReveScreenReader\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+G:\18.3.2018 exe\ReveScreenReader\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+G:\18.3.2018 exe\ReveScreenReader\SpeechBuilder\obj\Debug\ResolveAssemblyReference.cache
+G:\18.3.2018 exe\ReveScreenReader\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+G:\18.3.2018 exe\ReveScreenReader\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.Cache
+G:\18.3.2018 exe\ReveScreenReader\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+G:\18.3.2018 exe\ReveScreenReader\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\REVE Source Code Submission 27.3.2018\ReveScreenReader\SpeechBuilder\bin\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\REVE Source Code Submission 27.3.2018\ReveScreenReader\SpeechBuilder\bin\Debug\SpeechBuilder.pdb
+C:\Users\Bijan\Desktop\REVE Source Code Submission 27.3.2018\ReveScreenReader\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.AssemblyReference.cache
+C:\Users\Bijan\Desktop\REVE Source Code Submission 27.3.2018\ReveScreenReader\SpeechBuilder\obj\Debug\SpeechBuilder.Properties.Resources.resources
+C:\Users\Bijan\Desktop\REVE Source Code Submission 27.3.2018\ReveScreenReader\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.GenerateResource.cache
+C:\Users\Bijan\Desktop\REVE Source Code Submission 27.3.2018\ReveScreenReader\SpeechBuilder\obj\Debug\SpeechBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Bijan\Desktop\REVE Source Code Submission 27.3.2018\ReveScreenReader\SpeechBuilder\obj\Debug\SpeechBuilder.exe
+C:\Users\Bijan\Desktop\REVE Source Code Submission 27.3.2018\ReveScreenReader\SpeechBuilder\obj\Debug\SpeechBuilder.pdb
